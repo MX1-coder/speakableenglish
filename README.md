@@ -57,11 +57,11 @@ step-4 : run the backend project using of below command
 
 $ npm start
 
-step -5 :  got to  Backend Folder and run the packages installation command
+step -5 :  got to Frontend Folder and run the packages installation command
 
 $ npm install
 
-step-6 : run the backend project using of below command
+step-6 : run the Frontend project using of below command
 
 $ npm start
 
